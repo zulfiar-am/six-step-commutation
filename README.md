@@ -34,6 +34,30 @@ Below are the connection from Arduino UNO to DRV8302 and BLDC Motors
     <td>D7</td>
     <td>OC_ADJ</td>
   </tr>
+   <tr>
+    <td>D8</td>
+    <td>HA</td>
+  </tr>
+   <tr>
+    <td>D9</td>
+    <td>HB</td>
+  </tr>
+   <tr>
+    <td>D10</td>
+    <td>HC</td>
+  </tr>
+   <tr>
+    <td>D11</td>
+    <td>LA</td>
+  </tr>
+   <tr>
+    <td>D12</td>
+    <td>LB</td>
+  </tr>
+   <tr>
+    <td>D13</td>
+    <td>LC</td>
+  </tr>
 <table/>
 
   <table>
