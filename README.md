@@ -12,7 +12,7 @@ It controls the stator currents to achieve a motor speed and direction of rotati
 - Any BLDC Motor with 3 Hall Sensor
 
 # Hardware Connection
-Below are the connection from Arduino UNO to DRV8302 and BLDC Motors
+Arduino UNO to DRV8302 <br/>
 <table>
   <tr>
     <th>Arduino UNO</th>
@@ -59,11 +59,11 @@ Below are the connection from Arduino UNO to DRV8302 and BLDC Motors
     <td>LC</td>
   </tr>
 <table/>
-
+Arduino UNO to BLDC Motor <br/>
   <table>
   <tr>
     <th>Arduino UNO</th>
-    <th>Motor BLDC</th>
+    <th>BLDC Motor</th>
   </tr>
   <tr>
     <td>D2</td>
@@ -76,6 +76,25 @@ Below are the connection from Arduino UNO to DRV8302 and BLDC Motors
   <tr>
     <td>D4</td>
     <td>HALL_W</td>
+  </tr>
+  <table/>
+  DRV8302 Module to BLDC Motor <br/>
+  <table>
+  <tr>
+    <th>DRV8302</th>
+    <th>BLDC Motor</th>
+  </tr>
+  <tr>
+    <td>OUTA</td>
+    <td>U PHASE</td>
+  </tr>
+  <tr>
+    <td>OUTB</td>
+    <td>V PHASE</td>
+  </tr>
+  <tr>
+    <td>OUTC</td>
+    <td>W PHASE</td>
   </tr>
   <table/>
 
