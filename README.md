@@ -105,7 +105,7 @@ Arduino UNO to BLDC Motor <br/>
 
   # Conclusion
   This program has been tested and worked successfully on Arduino UNO and Arduino DUE <br/>
-  You could see the difference of both controller from the video below: <br/>
+  You could see the six step performance difference of both controller from the video below: <br/>
   - https://m.youtube.com/shorts/E6k92-TUxWU
   - https://m.youtube.com/shorts/I4uwIdeBnro
   
